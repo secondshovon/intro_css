@@ -1,0 +1,19 @@
+h3{
+	background-color: blueviolet;
+	color: whitesmoke;
+	font-size: 30px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+.border{
+	color: darkviolet;
+	font-size: 30px;
+	border-width: 5px;
+	border-style: dotted;
+	border-color: orange;
+}
+
+
